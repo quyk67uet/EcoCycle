@@ -7,6 +7,16 @@
 - EcoCycle is an environment-focused web app dedicated to improving recycling practices, especially among students.
 - Second place at Campathon 2024
 
+## Team Information
+
+- Team Name: SmartEco
+- Team Members:
+  - Phùng Đức Anh (Leader)
+  - Lê Minh Qúy
+  - Bùi Thị Ngọc Ánh
+  - Nguyễn Viết Phong
+  - Nguyễn Chí Thanh
+
 ### Features
 - Garbage Classification: Efficiently identify and categorize different types of waste to enhance the recycling process.
 - Garbage Detection: Utilize YOLOv8 for accurate waste detection.
