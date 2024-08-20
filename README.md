@@ -7,7 +7,11 @@
 - EcoCycle is an environment-focused web app dedicated to improving recycling practices, especially among students.
 - Second place at Campathon 2024
 
-<p align="center"> <img src="https://imgur.com/Y37B3Oi.jpeg"/ width="1280;"> </p>
+### Video demo
+[Video Link](https://drive.google.com/file/d/1qrjGsF4uBPEaAMUdzzgy0p0aIfSi4z29/view?usp=sharing)
+
+### Us
+<p align="center"> <img src="https://i.imgur.com/xeDUyBk.jpeg"/ width="1280;"> </p>
 
 ## Team Information
 
